@@ -116,6 +116,7 @@
         "listing-starred-persons-list": "Listing starred persons : list *",
         "editing-a-person-edit": "Editing a person : edit",
         "locating-persons-by-name-or-phone-number-find": "Locating persons by name or phone number: find",
+        "filtering-persons-by-age-group-or-appointment-dates-filter": "Filtering persons by age group or appointment dates: filter",
         "editing-a-person-s-notes-note": "Editing a person's notes : note",
         "deleting-a-person-delete": "Deleting a person : delete",
         "sorting-list-based-on-appointment-dates-sort": "Sorting list based on Appointment Dates : sort",
