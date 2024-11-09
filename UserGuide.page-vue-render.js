@@ -26,7 +26,7 @@ with(this){return _c('ol',{attrs:{"start":"7"}},[_c('li',[_v("Refer to the "),_c
 with(this){return _c('h2',{attrs:{"id":"features"}},[_v("Features"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#features","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Return to Table of Contents")])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"#medicontact"}},[_v("Return to Table of Contents")])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"adding-a-person-add"}},[_v("Adding a person: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#adding-a-person-add","onclick":"event.stopPropagation()"}})])}
@@ -44,7 +44,7 @@ with(this){return _c('p',[_c('strong',[_v("Examples")]),_v(":")])}
 with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add n/John Doe p/98765432 e/johnd@example.com a/John street, block 123, #01-01 b/40 s/Male")])]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add n/Betsy Crowe t/friend e/betsycrowe@example.com a/Newgate Hospital p/12345678 t/patient b/20 s/Female")])]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add n/Evie Sage p/88888888 e/eviesage@example.com a/Hickory Forest b/23 s/Female ap/11/11/2024 1100")])])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Return to Table of Contents")])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"#medicontact"}},[_v("Return to Table of Contents")])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"clearing-all-entries-clear"}},[_v("Clearing all entries : "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("clear")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#clearing-all-entries-clear","onclick":"event.stopPropagation()"}})])}
@@ -62,7 +62,7 @@ with(this){return _c('p',[_c('strong',[_v("Confirmation Requirement:")])])}
 with(this){return _c('ul',[_c('li',[_v("A confirmation window will appear before clearing all contacts in MediContact,\nasking you to confirm if you are sure you want to proceed.\nYou must select “OK” to clear the address book. If you select “Cancel,”\nthe action will be aborted, and the address book will remain unchanged.")]),_v(" "),_c('li',[_v("Keyboard commands such as “Enter,” “Return,” and “Space” act as shortcuts to select the OK button, while “Esc” triggers the cancel button.")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Return to Table of Contents")])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"#medicontact"}},[_v("Return to Table of Contents")])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"deleting-a-person-delete"}},[_v("Deleting a person : "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("delete")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#deleting-a-person-delete","onclick":"event.stopPropagation()"}})])}
@@ -86,7 +86,7 @@ with(this){return _c('p',[_c('strong',[_v("Examples")]),_v(":")])}
 with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("list")]),_v(" followed by "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("delete Alex Yeoh")]),_v(" followed by clicking "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("OK ")]),_v("deletes the person with name "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Alex Yeoh")]),_v(" in the address book.")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("list")]),_v(" followed by "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("delete 2")]),_v(" followed by clicking "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("OK")]),_v(" deletes the 2nd person in the address book.")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find Betsy")]),_v(" followed by "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("delete 1")]),_v(" followed by clicking "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("OK")]),_v(" deletes the 1st person in the results of the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find")]),_v(" command."),_c('br')])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Return to Table of Contents")])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"#medicontact"}},[_v("Return to Table of Contents")])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"editing-a-person-edit"}},[_v("Editing a person : "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("edit")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#editing-a-person-edit","onclick":"event.stopPropagation()"}})])}
@@ -104,7 +104,7 @@ with(this){return _c('p',[_c('strong',[_v("Examples")]),_v(":")])}
 with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("edit John Doe p/91234567 e/johndoe@example.com")]),_v(" Edits the phone number and email address of John Doe to be "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("91234567")]),_v(" and "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("johndoe@example.com")]),_v(" respectively.")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("edit John Doe n/Betsy Crower t/ ap/")]),_v(" Edits the name of John Doe to be "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Betsy Crower")]),_v(" and clears all existing tags and appointments.")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Return to Table of Contents")])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"#medicontact"}},[_v("Return to Table of Contents")])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"exiting-the-program-exit"}},[_v("Exiting the program : "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("exit")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#exiting-the-program-exit","onclick":"event.stopPropagation()"}})])}
@@ -113,7 +113,7 @@ with(this){return _c('h3',{attrs:{"id":"exiting-the-program-exit"}},[_v("Exiting
 with(this){return _c('p',[_c('strong',[_v("Format")]),_v(": "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("exit")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Return to Table of Contents")])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"#medicontact"}},[_v("Return to Table of Contents")])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"filtering-persons-by-age-group-or-appointment-dates-filter"}},[_v("Filtering persons by age group or appointment dates: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("filter")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#filtering-persons-by-age-group-or-appointment-dates-filter","onclick":"event.stopPropagation()"}})])}
@@ -131,7 +131,7 @@ with(this){return _c('p',[_c('strong',[_v("Examples")]),_v(":")])}
 with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("filter b/70-79")])]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("filter ap/01/01/2025 - 01/01/2026")])]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("filter b/70-79 ap/01/01/2025 - 01/01/2026")])]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("filter b/70-79 t/medication t/Dr Tan")]),_c('br')])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Return to Table of Contents")])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"#medicontact"}},[_v("Return to Table of Contents")])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"locating-persons-by-name-or-phone-number-find"}},[_v("Locating persons by name or phone number: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#locating-persons-by-name-or-phone-number-find","onclick":"event.stopPropagation()"}})])}
@@ -146,7 +146,7 @@ with(this){return _c('ul',[_c('li',[_v("The search is case-insensitive. e.g "),_
 with(this){return _c('ul',[_c('li',[_c('p',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find John")]),_v(" returns "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("john")]),_v(" and "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Johnny Doe")])])]),_v(" "),_c('li',[_c('p',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find alex david")]),_v(" returns "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Alex Yeoh")]),_v(", "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("David Li")]),_c('br')])]),_v(" "),_c('li',[_c('p',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find olive 87438")]),_v(" returns "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("87438807")]),_v(", "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Charlotte Oliveiro")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Return to Table of Contents")])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"#medicontact"}},[_v("Return to Table of Contents")])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"viewing-help-help"}},[_v("Viewing help : "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("help")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#viewing-help-help","onclick":"event.stopPropagation()"}})])}
@@ -158,7 +158,7 @@ with(this){return _c('ul',[_c('li',[_v("A URL to the User Guide displayed at the
 with(this){return _c('p',[_c('strong',[_v("Format")]),_v(": "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("help")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Return to Table of Contents")])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"#medicontact"}},[_v("Return to Table of Contents")])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"importing-contacts-import"}},[_v("Importing contacts: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("import")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#importing-contacts-import","onclick":"event.stopPropagation()"}})])}
@@ -191,7 +191,7 @@ with(this){return _c('pre',[_c('code',{pre:true,attrs:{"class":"hljs"}},[_c('spa
 with(this){return _c('ul',[_c('li',[_c('p',[_v("All patient data must be enclosed with "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("{\"persons\" : []}")])])]),_v(" "),_c('li',[_c('p',[_v("Each patient data must be enclosed with "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("{}")]),_v(" and seperated by a comma "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v(",")])])]),_v(" "),_c('li',[_c('p',[_v("The following is a blank template for 1 patient data. You may fill in the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("\" \"")]),_v(" and "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("[ ]")]),_v(" with the relevant data if you wish to manually edit patient records before importing. Remember to ensure that data adheres to the constraints of MediContact (see "),_c('a',{attrs:{"href":"#summary-of-parameter-constraints"}},[_v("Summary of parameter constraints")]),_v(" for more details).")]),_v(" "),_c('pre',[_c('code',{pre:true,attrs:{"class":"hljs"}},[_c('span',[_v("{\n")]),_c('span',[_v("\"persons\" : [ {\n")]),_c('span',[_v("    \"name\" : \" \",\n")]),_c('span',[_v("    \"phone\" : \" \",\n")]),_c('span',[_v("    \"email\" : \" \",\n")]),_c('span',[_v("    \"address\" : \" \",\n")]),_c('span',[_v("    \"age\" : \" \",\n")]),_c('span',[_v("    \"sex\" : \" \",\n")]),_c('span',[_v("    \"appointments\" : [ ],\n")]),_c('span',[_v("    \"tags\" : [ ],\n")]),_c('span',[_v("    \"note\" : {\n")]),_c('span',[_v("      \"appointments\" : [ ],\n")]),_c('span',[_v("      \"remark\" : [ ],\n")]),_c('span',[_v("      \"medication\" : [ ]\n")]),_c('span',[_v("    },\n")]),_c('span',[_v("    \"starredStatus\" : \" \"\n")]),_c('span',[_v("  }] \n")]),_c('span',[_v("  }\n")])])])]),_v(" "),_c('li',[_c('p',[_v("To add more patient data to the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("\"persons\"")]),_v(" array include the following after "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("\"starredStatus\" : \" \" }")]),_v(". You may add as many patient data as needed. Remember each patient data must be enclosed with "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("{}")]),_v(" and seperated by a comma "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v(",")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Return to Table of Contents")])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"#medicontact"}},[_v("Return to Table of Contents")])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"listing-all-persons-list"}},[_v("Listing all persons : "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("list")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#listing-all-persons-list","onclick":"event.stopPropagation()"}})])}
@@ -203,7 +203,7 @@ with(this){return _c('p',[_c('strong',[_v("Format")]),_v(": "),_c('code',{pre:tr
 with(this){return _c('ul',[_c('li',[_v("No other parameters should be supplied.")]),_v(" "),_c('li',[_v("You will be informed when the list is empty: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("The list is currently empty.")]),_v(" or when it is not empty: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Listed all persons")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Return to Table of Contents")])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"#medicontact"}},[_v("Return to Table of Contents")])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"listing-starred-persons-list"}},[_v("Listing starred persons : "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("list *")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#listing-starred-persons-list","onclick":"event.stopPropagation()"}})])}
@@ -215,7 +215,7 @@ with(this){return _c('p',[_c('strong',[_v("Format")]),_v(": "),_c('code',{pre:tr
 with(this){return _c('ul',[_c('li',[_v("No other parameters should be supplied aside from "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("*")]),_v(".")]),_v(" "),_c('li',[_v("You will be informed when the list is empty: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("No contacts starred")]),_v(" or when it is not empty: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Starred contacts listed")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Return to Table of Contents")])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"#medicontact"}},[_v("Return to Table of Contents")])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"editing-a-person-s-notes-note"}},[_v("Editing a person's notes : "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("note")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#editing-a-person-s-notes-note","onclick":"event.stopPropagation()"}})])}
@@ -236,7 +236,7 @@ with(this){return _c('p',[_c('strong',[_v("Examples")]),_v(":")])}
 with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("note John Doe ap/01/01/2023 1200 r/Allergic to XXX")]),_v(" Adds "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("01/01/2025 1200")]),_v(" and "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Allergic to XXX")]),_v(" to John Doe's past appointments and remarks respectively.")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("note John Doe ap/ m/")]),_v(" Clears all existing  appointments and medications from John Doe's notes.")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Return to Table of Contents")])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"#medicontact"}},[_v("Return to Table of Contents")])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"sorting-list-based-on-appointment-dates-sort"}},[_v("Sorting list based on Appointment Dates : "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("sort")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#sorting-list-based-on-appointment-dates-sort","onclick":"event.stopPropagation()"}})])}
@@ -248,7 +248,7 @@ with(this){return _c('p',[_c('strong',[_v("Format")]),_v(": "),_c('code',{pre:tr
 with(this){return _c('ul',[_c('li',[_v("No other parameters should be supplied.")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Return to Table of Contents")])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"#medicontact"}},[_v("Return to Table of Contents")])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"adding-a-person-to-favourites-list-star"}},[_v("Adding a person to favourites list : "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("star")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#adding-a-person-to-favourites-list-star","onclick":"event.stopPropagation()"}})])}
@@ -266,7 +266,7 @@ with(this){return _c('p',[_c('strong',[_v("Examples")]),_v(":")])}
 with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("star Alex Yeoh")]),_v(" stars the person with name "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Alex Yeoh")]),_v(" in the address book.")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("list")]),_v(" followed by "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("star 2")]),_v(" stars the 2nd person in the address book.")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find Betsy")]),_v(" followed by "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("star 1")]),_v(" stars the 1st person in the results of the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find")]),_v(" command.")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Return to Table of Contents")])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"#medicontact"}},[_v("Return to Table of Contents")])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"removing-a-person-from-favourites-list-unstar"}},[_v("Removing a person from favourites list : "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("unstar")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#removing-a-person-from-favourites-list-unstar","onclick":"event.stopPropagation()"}})])}
@@ -284,7 +284,7 @@ with(this){return _c('p',[_c('strong',[_v("Examples")]),_v(":")])}
 with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("unstar Alex Yeoh")]),_v(" unstars the person with name "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Alex Yeoh")]),_v(" in the address book.")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("list")]),_v(" followed by "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("unstar 2")]),_v(" unstars the 2nd person in the address book.")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find Betsy")]),_v(" followed by "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("unstar 1")]),_v(" unstars the 1st person in the results of the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find")]),_v(" command.")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Return to Table of Contents")])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"#medicontact"}},[_v("Return to Table of Contents")])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"viewing-a-person-s-notes-view"}},[_v("Viewing a person's notes : "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("view")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#viewing-a-person-s-notes-view","onclick":"event.stopPropagation()"}})])}
@@ -308,13 +308,13 @@ with(this){return _c('p',[_c('strong',[_v("Examples")]),_v(":")])}
 with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("view John Doe")])]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("view 1")]),_v(" shows all details of the 1st person's details including notes.")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Return to Table of Contents")])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"#medicontact"}},[_v("Return to Table of Contents")])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"saving-the-data"}},[_v("Saving the data"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#saving-the-data","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Return to Table of Contents")])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"#medicontact"}},[_v("Return to Table of Contents")])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"exporting-the-data"}},[_v("Exporting the data"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#exporting-the-data","onclick":"event.stopPropagation()"}})])}
@@ -323,7 +323,7 @@ with(this){return _c('h3',{attrs:{"id":"exporting-the-data"}},[_v("Exporting the
 with(this){return _c('ul',[_c('li',[_v("Locate file "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("addressbook.json")]),_v(" under the folder "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("data")]),_v(" in the same directory as "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("MediContact.jar")]),_v(". "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("addressbook.json")]),_v(" will reflect the latest data. Simply download it.")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Return to Table of Contents")])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"#medicontact"}},[_v("Return to Table of Contents")])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"editing-the-data-file"}},[_v("Editing the data file"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#editing-the-data-file","onclick":"event.stopPropagation()"}})])}
@@ -332,7 +332,7 @@ with(this){return _c('h3',{attrs:{"id":"editing-the-data-file"}},[_v("Editing th
 with(this){return _c('p',[_v("AddressBook data are saved automatically as a JSON file "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("[JAR file location]/data/addressbook.json")]),_v(". Advanced users are welcome to update data directly by editing that data file.")])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Return to Table of Contents")])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"#medicontact"}},[_v("Return to Table of Contents")])])}
 },function anonymous(
 ) {
 with(this){return _c('h2',{attrs:{"id":"faq"}},[_v("FAQ"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#faq","onclick":"event.stopPropagation()"}})])}
@@ -341,7 +341,7 @@ with(this){return _c('h2',{attrs:{"id":"faq"}},[_v("FAQ"),_c('a',{staticClass:"f
 with(this){return _c('p',[_c('strong',[_v("Q")]),_v(": How do I transfer my data to another Computer?"),_c('br'),_v(" "),_c('strong',[_v("A")]),_v(": Install the app in the other computer and overwrite the empty data file it creates with the file that contains the data of your previous AddressBook home folder.")])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Return to Table of Contents")])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"#medicontact"}},[_v("Return to Table of Contents")])])}
 },function anonymous(
 ) {
 with(this){return _c('h2',{attrs:{"id":"known-issues"}},[_v("Known issues"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#known-issues","onclick":"event.stopPropagation()"}})])}
@@ -350,7 +350,7 @@ with(this){return _c('h2',{attrs:{"id":"known-issues"}},[_v("Known issues"),_c('
 with(this){return _c('ol',[_c('li',[_c('strong',[_v("When using multiple screens")]),_v(", if you move the application to a secondary screen, and later switch to using only the primary screen, the GUI will open off-screen. The remedy is to delete the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("preferences.json")]),_v(" file created by the application before running the application again.")]),_v(" "),_c('li',[_c('strong',[_v("If you minimize the Help Window")]),_v(" and then run the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("help")]),_v(" command (or use the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Help")]),_v(" menu, or the keyboard shortcut "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("F1")]),_v(") again, the original Help Window will remain minimized, and no new Help Window will appear. The remedy is to manually restore the minimized Help Window.")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Return to Table of Contents")])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"#medicontact"}},[_v("Return to Table of Contents")])])}
 },function anonymous(
 ) {
 with(this){return _c('h2',{attrs:{"id":"command-summary"}},[_v("Command summary"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#command-summary","onclick":"event.stopPropagation()"}})])}
@@ -359,7 +359,7 @@ with(this){return _c('h2',{attrs:{"id":"command-summary"}},[_v("Command summary"
 with(this){return _c('div',{staticClass:"table-responsive"},[_c('table',{staticClass:"markbind-table table table-bordered table-striped"},[_c('thead',[_c('tr',[_c('th',[_v("Action")]),_v(" "),_c('th',[_v("Format, Examples")])])]),_v(" "),_c('tbody',[_c('tr',[_c('td',[_c('strong',[_v("Add")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add n/NAME p/PHONE_NUMBER e/EMAIL a/ADDRESS b/AGE s/SEX [ap/APPOINTMENTS]… [t/TAG]…​")]),_v(" "),_c('br'),_v(" e.g., "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add n/James Ho p/22224444 e/jamesho@example.com a/123, Clementi Rd, 1234665 b/24 s/Male ap/01/01/2025 1200 t/friend t/colleague")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Clear")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("clear")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Delete")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("delete INDEX")]),_v(" or "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("delete NAME")]),_v(" "),_c('br'),_v(" e.g., "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("delete 3")]),_v(", "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("delete Alex Yeoh")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Edit")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("edit NAME [n/NAME] [p/PHONE] [e/EMAIL] [a/ADDRESS] [b/AGE] [s/SEX] [ap/APPOINTMENT] [t/TAG]…")]),_c('br'),_v(" e.g.,"),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("edit John Doe n/James Lee e/jameslee@example.com")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Exit")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("exit")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Filter")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("filter [ap/APPOINTMENT_DATE_LOWER_BOUND - APPOINTMENT_DATE_UPPER_BOUND] [b/AGE_LOWER_BOUND - AGE_UPPER_BOUND] [t/TAG]...")]),_c('br'),_v(" e.g.,"),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("filter b/70-79 t/medication t/Dr Tan")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Find")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find KEYWORD [MORE_KEYWORDS]")]),_c('br'),_v(" e.g., "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find James 89127777")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Help")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("help")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Import")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("import FILENAME.json")]),_c('br'),_v("e.g. "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("import patientRecords.json")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("List")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("list")]),_v(" "),_c('br'),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("list *")]),_v(" (to list starred contacts)")])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Note")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("note NAME [ap/APPOINTMENT] [m/MEDICATION] [r/REMARK]…")]),_c('br'),_v(" e.g.,"),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("note John Doe r/Allergic to XXX m/10mg Ibuprofen")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Sort")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("sort")]),_v(" (to sort contacts based on appointment dates)")])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Star")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("star INDEX")]),_v(" or "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("star NAME")]),_v(" "),_c('br'),_v(" e.g., "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("star 3")]),_v(", "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("star Alex Yeoh")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Unstar")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("unstar INDEX")]),_v(" or "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("unstar NAME")]),_v(" "),_c('br'),_v(" e.g., "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("unstar 3")]),_v(", "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("unstar Alex Yeoh")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("View")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("view INDEX")]),_v(" or "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("view NAME")]),_v(" "),_c('br'),_v(" e.g., "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("view 3")]),_v(", "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("view Alex Yeoh")])])])])])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Return to Table of Contents")])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"#medicontact"}},[_v("Return to Table of Contents")])])}
 },function anonymous(
 ) {
 with(this){return _c('h2',{attrs:{"id":"summary-of-parameter-constraints"}},[_v("Summary of parameter constraints"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#summary-of-parameter-constraints","onclick":"event.stopPropagation()"}})])}
@@ -368,9 +368,9 @@ with(this){return _c('h2',{attrs:{"id":"summary-of-parameter-constraints"}},[_v(
 with(this){return _c('div',{staticClass:"table-responsive"},[_c('table',{staticClass:"markbind-table table table-bordered table-striped"},[_c('thead',[_c('tr',[_c('th',[_v("Parameter")]),_v(" "),_c('th',[_v("Constraints")])])]),_v(" "),_c('tbody',[_c('tr',[_c('td',[_c('strong',[_v("Address")])]),_v(" "),_c('td',[_v("Should not be blank. Should not begin with a whitespace."),_c('br'),_v("Valid example: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("2042 Balotony street #05-03")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Age")])]),_v(" "),_c('td',[_v("Should only contain numbers. Should be 1-3 digits long."),_c('br'),_v("Valid example: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("103")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Appointment")])]),_v(" "),_c('td',[_v("Should be in the form dd/mm/yyyy hhmm. Should be dates in the future."),_c('br'),_v("Valid example: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("12/02/2040 1600")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Email")])]),_v(" "),_c('td',[_v("Should be in the form local-part@domain. Local-part should only contain alphanumeric characters or these special characters "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("+_.-")]),_v(". Domain should be made up of doman labels separated by periods. Domain name should end with a domain label at least 2 characters long. Domain label should start and end with alphanumeric characters. Domain label should consist of alphanumeric characters or hyphens."),_c('br'),_v("Valid example: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("alexyeoh24@gmail.com")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Filename")])]),_v(" "),_c('td',[_v("Should match the filename of desired import file exactly. Should end in "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v(".json")]),_v("."),_c('br'),_v("Valid example: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("PatientRecords.json")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Index")])]),_v(" "),_c('td',[_v("Should be a positive integer. Should match to an index displayed in the contacts list."),_c('br'),_v("Valid example: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("1")]),_v(" (if there is at least one contact in the contacts list)")])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Keyword")])]),_v(" "),_c('td',[_v("Should be alphanumeric (since only name and phone number is searched)."),_c('br'),_v("Valid example: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("alex yeoh")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Name")])]),_v(" "),_c('td',[_v("Should be alphanumeric. Should not be blank."),_c('br'),_v("Valid example: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Alex Yeoh")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Note (Appointment)")])]),_v(" "),_c('td',[_v("Should be in the form dd/mm/yyyy hhmm. Should be dates in the past."),_c('br'),_v("Valid example: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("12/02/2023 1600")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Note (Medication)")])]),_v(" "),_c('td',[_v("Should be alphanumeric."),_c('br'),_v("Valid example: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Ibuprofen")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Note (Remark)")])]),_v(" "),_c('td',[_v("Should be alphanumeric."),_c('br'),_v("Valid example: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Recurring appointment on Tuesdays")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Phone number")])]),_v(" "),_c('td',[_v("Should only contain numbers. Should be exactly 8 digits long."),_c('br'),_v("Valid example: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("12345678")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Sex")])]),_v(" "),_c('td',[_v("Should be alphanumeric. Should not be blank."),_c('br'),_v("Valid example: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Female")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Tags")])]),_v(" "),_c('td',[_v("Should be alphanumeric."),_c('br'),_v("Valid example: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Patient")])])])])])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Return to Table of Contents")])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"#medicontact"}},[_v("Return to Table of Contents")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Sat, 9 Nov 2024, 16:01:47 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Sat, 9 Nov 2024, 17:43:36 GMT+8]")])])])}
 }];
   
