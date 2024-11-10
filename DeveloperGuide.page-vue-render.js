@@ -350,6 +350,6 @@ with(this){return _c('h3',{attrs:{"id":"team-size-5"}},[_v("Team size: 5"),_c('a
 with(this){return _c('ol',[_c('li',[_v("Ritvi")]),_v(" "),_c('li',[_v("Ritvi")]),_v(" "),_c('li',[_v("Lynette")]),_v(" "),_c('li',[_v("Lynette")]),_v(" "),_c('li',[_v("Nasya")]),_v(" "),_c('li',[_v("Nasya")]),_v(" "),_c('li',[_v("Kelly")]),_v(" "),_c('li',[_v("Kelly")]),_v(" "),_c('li',[_v("Otto")]),_v(" "),_c('li',[_v("Otto")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Sun, 10 Nov 2024, 13:08:50 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Sun, 10 Nov 2024, 13:46:05 GMT+8]")])])])}
 }];
   
