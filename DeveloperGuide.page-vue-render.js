@@ -164,13 +164,13 @@ with(this){return _c('h3',{attrs:{"id":"use-cases"}},[_v("Use cases"),_c('a',{st
 with(this){return _c('p',[_v("(For all use cases below, the "),_c('strong',[_v("System")]),_v(" is the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("AddressBook")]),_v(" and the "),_c('strong',[_v("Actor")]),_v(" is the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("user")]),_v(", unless specified otherwise)")])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("Use case: Add a contact")])])}
+with(this){return _c('p',[_c('strong',[_v("Use case: Add a patient's contact")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to add contact")])]),_v(" "),_c('li',[_c('p',[_v("User inputs the contact details")])]),_v(" "),_c('li',[_c('p',[_v("Medicontact adds the contact")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
+with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to add patient's contact")])]),_v(" "),_c('li',[_c('p',[_v("User inputs the patient's contact details")])]),_v(" "),_c('li',[_c('p',[_v("Medicontact adds the patient's contact")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
@@ -179,22 +179,22 @@ with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. Necessary field is missing.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("2a1. MediContact shows an error message indicating which field is missing.")]),_v(" "),_c('p',[_v("Use case ends.")])])])]),_v(" "),_c('li',[_c('p',[_v("2b. Wrong format in input.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("2b1. MediContact shows an error message specifying the incorrect format.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("Use case: Delete a patient")])])}
+with(this){return _c('p',[_c('strong',[_v("Use case: Delete a patient's contact")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to list patients.")])]),_v(" "),_c('li',[_c('p',[_v("MediContact shows a list of patients.")])]),_v(" "),_c('li',[_c('p',[_v("User requests to delete a specific patient in the list.")])]),_v(" "),_c('li',[_c('p',[_v("MediContact requests for confirmation.")])]),_v(" "),_c('li',[_c('p',[_v("User confirms to delete.")])]),_v(" "),_c('li',[_c('p',[_v("MediContact deletes the patient.")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
+with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to list patient contacts.")])]),_v(" "),_c('li',[_c('p',[_v("MediContact shows a list of patient contacts.")])]),_v(" "),_c('li',[_c('p',[_v("User requests to delete a specific patient's contact in the list.")])]),_v(" "),_c('li',[_c('p',[_v("MediContact requests for confirmation.")])]),_v(" "),_c('li',[_c('p',[_v("User confirms to delete.")])]),_v(" "),_c('li',[_c('p',[_v("MediContact deletes the patient's contact.")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("3a. The given index or name is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. MediContact shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])]),_v(" "),_c('li',[_c('p',[_v("4a. User chooses to cancel the deletion.")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The patient contact list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("3a. The given patient's index or patient's name is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. MediContact shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])]),_v(" "),_c('li',[_c('p',[_v("4a. User chooses to cancel the deletion.")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("Use case: Clear all contacts")])])}
+with(this){return _c('p',[_c('strong',[_v("Use case: Clear all patient contacts")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
@@ -215,22 +215,22 @@ with(this){return _c('p',[_c('strong',[_v("Use case: Edit a patient")])])}
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to list patients.")])]),_v(" "),_c('li',[_c('p',[_v("MediContact shows a list of patients.")])]),_v(" "),_c('li',[_c('p',[_v("User requests to edit a patient and specifies edited fields.")])]),_v(" "),_c('li',[_c('p',[_v("MediContact updates the patient.")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
+with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to list patient contacts.")])]),_v(" "),_c('li',[_c('p',[_v("MediContact shows a list of patient contacts.")])]),_v(" "),_c('li',[_c('p',[_v("User requests to edit a specific patient's contact and specifies edited fields.")])]),_v(" "),_c('li',[_c('p',[_v("MediContact updates the patient's contact.")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("3a. The given name is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. MediContact shows an error message.")]),_v(" "),_c('p',[_v("Use case ends.")])])])]),_v(" "),_c('li',[_c('p',[_v("3b. No specified field or any field specified is in the wrong format.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3b1. MediContact shows an error message.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The patient contact list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("3a. The given patient name is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. MediContact shows an error message.")]),_v(" "),_c('p',[_v("Use case ends.")])])])]),_v(" "),_c('li',[_c('p',[_v("3b. No specified field or any field specified is in the wrong format.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3b1. MediContact shows an error message.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("Use case: Filter a patient")])])}
+with(this){return _c('p',[_c('strong',[_v("Use case: Filter a patient's contact")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to filter contacts and specifies the criteria.")])]),_v(" "),_c('li',[_c('p',[_v("Medication shows a list of patients matching details.")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
+with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to filter patient contacts and specifies the criteria.")])]),_v(" "),_c('li',[_c('p',[_v("Medication shows a list of patients matching details.")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
@@ -239,13 +239,13 @@ with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 with(this){return _c('ul',[_c('li',[_c('p',[_v("1a. Criterion is missing.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("1a1. MediContact shows an error message.")]),_v(" "),_c('p',[_v("Use case ends.")])])])]),_v(" "),_c('li',[_c('p',[_v("1b. Wrong format in input")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("1b1. MediContact shows an error message specifying the incorrect format.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("Use case: Find a patient")])])}
+with(this){return _c('p',[_c('strong',[_v("Use case: Find a patient's contact")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to find contact")])]),_v(" "),_c('li',[_c('p',[_v("User inputs the find command with contact details")])]),_v(" "),_c('li',[_c('p',[_v("MediContact shows a list of patients matching details")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
+with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to find patient's contact")])]),_v(" "),_c('li',[_c('p',[_v("User inputs the find command with patient's contact details")])]),_v(" "),_c('li',[_c('p',[_v("MediContact shows a list of patients matching details")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
@@ -254,13 +254,13 @@ with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. Necessary field is missing")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("2a1. MediContact shows an error message indicating which field is missing.")]),_v(" "),_c('p',[_v("Use case ends.")])])])]),_v(" "),_c('li',[_c('p',[_v("2b. Wrong format in input")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("2b1. MediContact shows an error message specifying the incorrect format.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("Use case: Import data")])])}
+with(this){return _c('p',[_c('strong',[_v("Use case: Import patient contacts")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to import data.")])]),_v(" "),_c('li',[_c('p',[_v("User inputs the import command with new address book file name.")])]),_v(" "),_c('li',[_c('p',[_v("MediContact imports the data.")])]),_v(" "),_c('li',[_c('p',[_v("MediContact replaces original data with new data.")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
+with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to import patient contacts.")])]),_v(" "),_c('li',[_c('p',[_v("User inputs the import command with new address book file name.")])]),_v(" "),_c('li',[_c('p',[_v("MediContact imports the patient contacts.")])]),_v(" "),_c('li',[_c('p',[_v("MediContact replaces original patient contacts data with new patient contacts data.")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
@@ -269,52 +269,52 @@ with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. File is not in the same folder as application JAR file.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("2a1. MediContact shows an error message indicating file not found.")]),_v(" "),_c('p',[_v("Use case ends.")])])])]),_v(" "),_c('li',[_c('p',[_v("2b. File is not in JSON format.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("2b1. MediContact shows an error message indicating wrong file format.")]),_v(" "),_c('p',[_v("Use case ends.")])])])]),_v(" "),_c('li',[_c('p',[_v("2c. File is not in expected format of MediContact data.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("2c1. MediContact shows an error message indicating invalid JSON format.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("Use case: List contacts")])])}
+with(this){return _c('p',[_c('strong',[_v("Use case: List patient contacts")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to list contacts.")])]),_v(" "),_c('li',[_c('p',[_v("User inputs the list command.")])]),_v(" "),_c('li',[_c('p',[_v("MediContact shows a list of contacts.")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
+with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to list patient contacts.")])]),_v(" "),_c('li',[_c('p',[_v("User inputs the list command.")])]),_v(" "),_c('li',[_c('p',[_v("MediContact shows a list of patient contacts.")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("Use case: List starred contacts")])])}
-},function anonymous(
-) {
-with(this){return _c('p',[_c('strong',[_v("MSS")])])}
-},function anonymous(
-) {
-with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to list starred contacts.")])]),_v(" "),_c('li',[_c('p',[_v("User inputs the list star command.")])]),_v(" "),_c('li',[_c('p',[_v("MediContact shows a list of starred contacts.")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
-},function anonymous(
-) {
-with(this){return _c('p',[_c('strong',[_v("Use case: Star a patient")])])}
+with(this){return _c('p',[_c('strong',[_v("Use case: List starred patient contacts")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to list patients.")])]),_v(" "),_c('li',[_c('p',[_v("MediContact shows a list of patients.")])]),_v(" "),_c('li',[_c('p',[_v("User requests to add a patient into starred list.")])]),_v(" "),_c('li',[_c('p',[_v("User inputs the star command with index or full name of the patient.")])]),_v(" "),_c('li',[_c('p',[_v("MediContact adds the patient into starred list.")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
+with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to list starred patient contacts.")])]),_v(" "),_c('li',[_c('p',[_v("User inputs the list star command.")])]),_v(" "),_c('li',[_c('p',[_v("MediContact shows a list of starred patient contacts.")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
+},function anonymous(
+) {
+with(this){return _c('p',[_c('strong',[_v("Use case: Star a patient's contact")])])}
+},function anonymous(
+) {
+with(this){return _c('p',[_c('strong',[_v("MSS")])])}
+},function anonymous(
+) {
+with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to list patient contacts.")])]),_v(" "),_c('li',[_c('p',[_v("MediContact shows a list of patient contacts.")])]),_v(" "),_c('li',[_c('p',[_v("User requests to add a patient's contact into starred list.")])]),_v(" "),_c('li',[_c('p',[_v("User inputs the star command with index or full name of the patient.")])]),_v(" "),_c('li',[_c('p',[_v("MediContact adds the patient's contact into starred list.")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("4a. Name or index given is invalid")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("4a1. MediContact shows an error message indicating invalid name or index.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The patient contact list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("4a. Name or index given is invalid")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("4a1. MediContact shows an error message indicating invalid name or index.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("Use case: Sort contacts")])])}
+with(this){return _c('p',[_c('strong',[_v("Use case: Sort patient contacts")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_v("User requests to sort contacts.")]),_v(" "),_c('li',[_v("User inputs the sort command.")]),_v(" "),_c('li',[_v("MediContact sorts the displayed list of contacts by appointments.")])])}
+with(this){return _c('ol',[_c('li',[_v("User requests to sort patient contacts.")]),_v(" "),_c('li',[_v("User inputs the sort command.")]),_v(" "),_c('li',[_v("MediContact sorts the displayed list of patient contacts by appointments.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. No contact with appointment dates found.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("2a1. MediContact shows an error message.")])]),_v(" "),_c('li',[_c('p',[_v("2a2. MediContact sorts the contacts alphabetically.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. No patient contact with appointment dates found.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("2a1. MediContact shows an error message.")])]),_v(" "),_c('li',[_c('p',[_v("2a2. MediContact sorts the patient contacts alphabetically.")]),_v(" "),_c('p',[_v("Use case ends.")])])])]),_v(" "),_c('li',[_c('p',[_v("2b. More than one patient contact have the same appointment dates.")]),_v(" "),_c('ul',[_c('li',[_v("2b1. MediContact sorts the patient contacts having same appointment dates alphabetically.")])]),_v(" "),_c('p',[_v("Use case ends.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: View note")])])}
@@ -323,13 +323,13 @@ with(this){return _c('p',[_c('strong',[_v("Use case: View note")])])}
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to list patients.")])]),_v(" "),_c('li',[_c('p',[_v("MediContact shows a list of patients.")])]),_v(" "),_c('li',[_c('p',[_v("User requests to view a patient's note.")])]),_v(" "),_c('li',[_c('p',[_v("User inputs the view command with index or full name of the patient.")])]),_v(" "),_c('li',[_c('p',[_v("MediContact shows the patient's contact with the note.")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
+with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to list patient contacts.")])]),_v(" "),_c('li',[_c('p',[_v("MediContact shows a list of patient contacts.")])]),_v(" "),_c('li',[_c('p',[_v("User requests to view a patient's note.")])]),_v(" "),_c('li',[_c('p',[_v("User inputs the view command with index or full name of the patient.")])]),_v(" "),_c('li',[_c('p',[_v("MediContact shows the patient's contact with the note.")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("4a. Name or index given is invalid")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("4a1. MediContact shows an error message indicating invalid name or index.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The patient contacts list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("4a. Name or index given is invalid")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("4a1. MediContact shows an error message indicating invalid name or index.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"non-functional-requirements"}},[_v("Non-Functional Requirements"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#non-functional-requirements","onclick":"event.stopPropagation()"}})])}
@@ -464,6 +464,6 @@ with(this){return _c('h3',{attrs:{"id":"team-size-5"}},[_v("Team size: 5"),_c('a
 with(this){return _c('ol',[_c('li',[_c('p',[_c('strong',[_v("Improve handling of name inputs ("),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add")]),_v(" and "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("edit")]),_v(" commands)")]),_v(": Currently names accepted are only alphanumeric.\nTo improve inclusivity, we plan to accept special characters (e.g. \"s/o\", \"d/o\"), accents (e.g. é, è) as well as other\nlanguages. However, we will restrict names from including numbers, due to their lack of use."),_c('br'),_c('br'),_v("\nAn example of a newly accepted command will be:"),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("edit Javier n/Javiér")]),_c('br'),_c('br'),_v("\nAn example of a command that will trigger an invalid error will be: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("edit Javier n/J4vier")]),_c('br')])]),_v(" "),_c('li',[_c('p',[_c('strong',[_v("Improve our date package (Used by all commands that require a date)")]),_v(": Currently, it is possible to input invalid\ndates such as "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("29/02/2025 1200")]),_v(" (Invalid leap year) or "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("31/06/2025 2400")]),_v(" (31st of June does not exist). With our intended\nimprovement, an error message will be displayed if any instance of an invalid date is inputted."),_c('br'),_c('br'),_v("\nA few examples of commands that will throw invalid date errors will be:"),_c('br'),_v(" "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("edit Javier ap/31/06/2025 2400")]),_c('br'),_v(" "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("filter ap/31/06/2025 - 29/02/2026")]),_c('br')])]),_v(" "),_c('li',[_c('p',[_c('strong',[_v("Introduce stricter constraints for "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("age")])]),_v(": Currently our Age field accepts any value ranging from 0-999, which seems\na tad too high. We plan to decrease the upper limit of the range to a more reasonable 150"),_c('br'),_c('br'),_v("\nAn example of a command that will trigger invalid date errors will be:"),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("edit Javier b/151")]),_c('br')])]),_v(" "),_c('li',[_c('p',[_c('strong',[_v("Set age boundaries for "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("filter age")])]),_v(": Currently, the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("filter")]),_v(" command allows any age range to be inputted, which\ncan lead to invalid or nonsensical ranges. We plan to set boundaries for the age filter to ensure that only valid age\nranges are accepted. The valid age range will be from 0 to 150. We will also check for string length to prevent any\noverflow issues."),_c('br'),_c('br'),_v("\nAn example of a command that will trigger an invalid age range error will be: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("filter b/151-200")])])]),_v(" "),_c('li',[_c('p',[_c('strong',[_v("Introduce verification of phone numbers")]),_v(": Currently, the application does not properly\nverify the format of phone numbers and email addresses. We plan to introduce validation checks to ensure that phone\nnumbers exists."),_c('br'),_c('br'),_v("\nAn examples of an invalid input that will trigger an error: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("edit Javier p/00000000")]),_v(" (phone number should exist)"),_c('br')])]),_v(" "),_c('li',[_c('p',[_c('strong',[_v("Introduce verification of emails")]),_v(": Currently, the application does not properly verify the format email addresses\nas invalid emails such as "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("example@example")]),_v(" are still accepted, which is missing the TLD portion of the email. We plan\nto improve validation checks to ensure that email addresses are in the correct format."),_c('br'),_c('br'),_v("\nAn examples of an invalid input that will trigger an error: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("edit Javier e/example@example")]),_v(" (should follow the format "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("local-part@domain.tld")]),_v(")"),_c('br')])]),_v(" "),_c('li',[_c('p',[_c('strong',[_v("View any patient’s note without needing to return to the patient list view")]),_v(": Currently, to view the details or\nnotes of a different patient after viewing a specific patient, users must first input the list command to return to the\nfull patient list before specifying another patient (e.g. "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("view SECONDPATIENT")]),_v(")."),_c('br'),_c('br'),_v("\nThe enhanced view command will allow the user to switch directly to another patient’s information without the need to\nre-list all patients first.")])]),_v(" "),_c('li',[_c('p',[_c('strong',[_v("Introduce stricter constraints for "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("sex")])]),_v(": Currently, we accept any alphanumerical input. However, this may not be reflective of\nreal-life behavior, despite the freedom it provides the user. Therefore, we plan to restrict the input for the sex field\nto predefined values such as \"Male\", \"Female\", and \"Other\"."),_c('br'),_c('br'),_v("\nAn example of a command that will trigger an invalid sex error will be: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("edit Javier s/Unknown")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Mon, 11 Nov 2024, 20:49:00 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Mon, 11 Nov 2024, 20:49:39 GMT+8]")])])])}
 }];
   
